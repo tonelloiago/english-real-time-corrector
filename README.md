@@ -11,7 +11,7 @@ A Chrome Extension that provides real-time English grammar and clarity correctio
 2.  Open Google Chrome and navigate to `chrome://extensions`.
 3.  Enable **Developer mode** in the top right corner.
 4.  Click **Load unpacked**.
-5.  Select the folder where you saved this project (`gpt-english-corrector`).
+5.  Select the folder where you saved this project (`english-real-time-corrector`).
 ## Configuration
 Before using the extension, you need to provide your OpenAI API key:
 1.  Click the **English Realtime Corrector** icon in your Chrome toolbar.
